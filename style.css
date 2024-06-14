@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+    padding: 0%;
+  
+
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    background: #262a2f;
+}
+#card{
+    padding-left: 35px;
+    padding-top: 25px;
+    width: 25rem;
+    height: 15rem;
+    background-color: white;
+    margin-top: 10rem;
+    border-radius: 15px;
+}
+#head{
+    
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-right: 40px;
+
+}
+ #box1{
+    padding-left: 5px;
+    background-color: white;
+    margin-top: 25px;
+    /* border: none; */
+    outline: none;
+    border: solid;
+    /* border: thin; */
+    border-width: 1.4px;
+    
+ }
+ .box{
+    width:20rem;
+    height: 3rem;
+    margin-left: 22px;
+    border-radius: 5px;
+
+ }
+ #box2{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(0, 128, 255);
+    margin-top: 25px;
+    cursor: pointer;
+}
+#img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
